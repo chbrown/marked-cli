@@ -12,7 +12,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "marked": "0.2.9",
+    "marked": "0.3.12",
     "optimist": "0.6.1"
   },
   "bin": {

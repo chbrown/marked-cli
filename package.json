@@ -1,0 +1,21 @@
+{
+  "name": "marked-cli",
+  "version": "0.0.1-beta",
+  "description": "Alternate command-line interface for parsing and rendering markdown with `marked`",
+  "keywords": [
+    "markdown",
+    "cli"
+  ],
+  "homepage": "https://github.com/chbrown/marked-cli",
+  "repository": "git://github.com/chbrown/marked-cli.git",
+  "author": "Christopher Brown <io@henrian.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "marked": "0.2.9",
+    "optimist": "0.6.1"
+  },
+  "bin": {
+    "md": "index.js"
+  }
+}
